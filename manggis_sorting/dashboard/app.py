@@ -14,7 +14,7 @@ REFRESH_INTERVAL = 1 # detik (AMAN)
 st.set_page_config(
     page_title="Dashboard Sortir Manggis",
     layout="wide"
-)
+)   
 
 # ======================================================
 # SESSION STATE (WAJIB UNTUK AUTO REFRESH AMAN)

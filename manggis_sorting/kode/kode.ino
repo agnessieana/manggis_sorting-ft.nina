@@ -4,14 +4,14 @@
 #include <ArduinoJson.h>
 
 /* ================= WIFI ================= */
-const char* ssid     = "itelP55";
-const char* password = "powerranger";
+const char* ssid     = "your wifi ssid";
+const char* password = "";
 
 /* ================= MQTT ================= */
-const char* mqtt_server = "718e242e22204542b22febfd07152816.s1.eu.hivemq.cloud";
+const char* mqtt_server = "your mqtt broker address";
 const int   mqtt_port   = 8883;
-const char* mqtt_user   = "buahManggis";
-const char* mqtt_pass   = "#Beskalan10";
+const char* mqtt_user   = "username";
+const char* mqtt_pass   = "";
 
 const char* TOPIC_GRADE  = "manggis/grade";
 const char* TOPIC_STATUS = "manggis/status/ESP32_Sorter";

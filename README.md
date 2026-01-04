@@ -11,18 +11,18 @@ Sistem ini dirancang untuk melakukan penyortiran buah manggis secara otomatis me
 ---
 
 ## Tim Pengembang
-(2306153) Muzakki Al’Aarif
-(2309271) Nina Herlina 
-(2305113) Agnes Sabila Arrahma 
-(2309650) Alfarizi Khoerul Rizal 
-(2310879) Muhammad Kautsar 
-(2209730) Yoga Dimasya 
-(2311157) M. Dimas Saputra 
-(2309283) M. Haidar Ali P.S. 
-(2304805) M. Fikri Saifullah 
-(2305944) M. Raihan Taqwa 
-(2307198) Nabil Bagus Satrio 
-(2306014) Syahriza Ramadhani Z.F.  
+- (2306153) Muzakki Al’Aarif
+- (2309271) Nina Herlina 
+- (2305113) Agnes Sabila Arrahma 
+- (2309650) Alfarizi Khoerul Rizal 
+- (2310879) Muhammad Kautsar 
+- (2209730) Yoga Dimasya 
+- (2311157) M. Dimas Saputra 
+- (2309283) M. Haidar Ali P.S. 
+- (2304805) M. Fikri Saifullah 
+- (2305944) M. Raihan Taqwa 
+- (2307198) Nabil Bagus Satrio 
+- (2306014) Syahriza Ramadhani Z.F.  
 
 ---
 

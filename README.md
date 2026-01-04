@@ -35,10 +35,10 @@ Sistem ini dirancang untuk melakukan penyortiran buah manggis secara otomatis me
 
 ---
 
-##Urutan menjalankan program:
+## Urutan menjalankan program:
 1. Run mqtt_listener.py
 2. Run main.py
 3. Run dashboard app.py
 
-##Lampiran video demonstrasi:
+## Lampiran video demonstrasi:
 https://youtu.be/cNmZxbwlsYk?si=cClwi1MmSnrP4uBu
